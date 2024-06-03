@@ -16,7 +16,7 @@ This is a web application that allows users to book appointments with doctors, s
   
 ## TODO
 - Reminders implementation
--Hosting the application.
+- Hosting the application.
 - Record Management system
 
 ## The Application is still under Development.
